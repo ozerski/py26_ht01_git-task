@@ -1,0 +1,5 @@
+[project]
+name = "ht01-git-task02"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = []

@@ -1,5 +1,5 @@
 # Автор: Сергей Терёхин
-
+import math
 
 def add(a, b):
     return a + b
@@ -10,9 +10,12 @@ def subtract(a, b):
 
 
 def multiply(a, b):
-    # TODO: не реализовано
-    return None
+    # TODO: multiplication
+    return a * b
 
+def sqrt(x):
+    # TODO: sq_root
+        return math.sqrt(x)
 
 if __name__ == "__main__":
     print("Простой калькулятор запущен.")
